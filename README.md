@@ -1,5 +1,5 @@
 **TwitterAccMon** Is a Simple Twitter Account Monitor, run from a cronjob it becomes a Monitoring and Alert agent.
-It will tell you within seconds when an account is live, and keep checking for if they go offline.
+It will tell you within seconds when an account is live, and keep checking if they go offline.
 
 **Python3**
 ```
