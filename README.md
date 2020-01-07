@@ -19,8 +19,7 @@ smtp_port = '587' #Your SMTP port
 **Configure Your Users**
 Add Users to monitor like the example below, remove the @
 ```
-user_mon_list = ['account1',
-				 'account2']
+user_mon_list = ['account1','account2']
 ```
 
 **Install in a cron job**
